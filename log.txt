@@ -1,0 +1,14 @@
+[INFO][2021-03-08 21:40:29]get PITake Photo order, filename=test.jpg
+[INFO][2021-03-08 21:40:29]PI take Photo, filename=test.jpg
+[ERROR][2021-03-08 21:40:29]get wrong order=
+[ERROR][2021-03-08 21:41:15]get wrong order=
+[INFO][2021-03-08 21:41:26]get PITake Photo order, filename=test.jpg
+[INFO][2021-03-08 21:41:26]PI take Photo, filename=test.jpg
+[INFO][2021-03-08 21:41:30]get PIGet Photo order, filename=download.jpg
+[WARNING][2021-03-08 21:41:30]file do not exist! filename=download.jpg
+[INFO][2021-03-08 21:42:12]get PIGet Photo order, filename=download.jpg
+[WARNING][2021-03-08 21:42:12]file do not exist! filename=download.jpg
+[INFO][2021-03-08 21:42:22]get PIGet Photo order, filename=download.jpg
+[WARNING][2021-03-08 21:42:22]file do not exist! filename=download.jpg
+[INFO][2021-03-08 21:43:13]get PIGet Photo order, filename=download.jpg
+[WARNING][2021-03-08 21:43:13]file do not exist! filename=download.jpg
